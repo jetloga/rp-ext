@@ -1,11 +1,11 @@
 {
   "id": "pocopico.ixgbevf",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbevf/rpext-index.json",
+  "url": "https://github.com/jetloga/rp-ext/raw/main/ixgbevf/rpext-index.json",
   "info": {
     "name": "ixgbevf",
     "description": "Adds Intel(R) 10 Gigabit Virtual Function Network Driver Support",
     "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/ixgbevf",
+    "packer_url": "https://github.com/jetloga/rp-ext/tree/main/ixgbevf",
     "help_url": "<todo>"
   },
   "releases": {
@@ -43,6 +43,7 @@
     "ds918p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbevf/releases/ds918p_42218.json",
     "ds918p_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbevf/releases/ds918p_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbevf/releases/ds918p_42218.json",
+    "ds918p_42951": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbevf/releases/ds918p_42218.json",
     "ds920p_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbevf/releases/ds920p_42218.json",
     "ds920p_42951": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbevf/releases/ds920p_42218.json",
     "ds920p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbevf/releases/ds920p_42218.json",
