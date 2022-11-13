@@ -1,6 +1,6 @@
 {
   "id": "pocopico.mlx4_core",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/jetloga/rp-ext/master/mlx4_core/rpext-index.json",
   "info": {
     "name": "mlx4_core",
     "description": "Adds MLX4 Support",
@@ -57,10 +57,10 @@
     "ds918p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds918p_42218.json",
     "ds918p_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds918p_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds918p_42218.json",
-    "ds920p_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds920p_42218.json",
-    "ds920p_42951": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds920p_42218.json",
-    "ds920p_42962": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds920p_42218.json",
-    "ds920p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds920p_42218.json"
+    "ds920p_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds918p_42218.json",
+    "ds920p_42951": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds918p_42218.json",
+    "ds920p_42962": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds918p_42218.json",
+    "ds920p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds918p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/ds918p_42218.json"
   }
 }
